@@ -30,9 +30,9 @@ export default class Employee extends Component {
     return (
       <div>
         {this.state.employees.map(function(x, i) {
-          return <TableRow key={i} data={x} />
+            return <TableRow key={i} data={x} />
         })}
       </div>
-    )
-  }
+      )
+    }
 }
