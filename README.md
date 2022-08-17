@@ -3,5 +3,6 @@ Built Fullstack Application with Java Spring Boot for Backend REST API &amp; Rea
 
 Stacks:
 - React.JS
+- React Native (Expo)
 - Spring Boot
 - React Bootstrap
