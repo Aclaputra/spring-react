@@ -1,5 +1,5 @@
 # spring-react
-Built Fullstack Application with Java Spring Boot for Backend REST API &amp; React.JS for Frontend (On Progress 60%)
+Built Fullstack Application with Java Spring Boot for Backend REST API &amp; React.JS for Frontend (On Progress)
 
 Stacks:
 - React JS
